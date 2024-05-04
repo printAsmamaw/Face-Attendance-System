@@ -26,7 +26,7 @@ The Face Recognition Based Attendance System uses face recognition technology to
 ![4](https://github.com/printAsmamaw/Face-Attendance-System/243766707-b6f0a720-b4df-43ce-a378-72212741f22d.png)
 
 ## Feature Extraction 
-![5](https://github.com/printAsmamaw/Face-Attendance-System/243766707-b6f0a720-b4df-43ce-a378-72212741f22d.png)
+![5](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/e979e0c8-9ddd-4ffb-b74a-3186c4107afa)
 
 ## Training Data
 
@@ -34,7 +34,7 @@ The Face Recognition Based Attendance System uses face recognition technology to
 
 ## Attendance Taking 
 
-![7](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/e979e0c8-9ddd-4ffb-b74a-3186c4107afa)
+![7](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/0c764105-d8b5-46ce-aa9b-da69e12fe7d6)
 
 ## Attendance Report 
 
