@@ -18,7 +18,9 @@ The Face Recognition Based Attendance System uses face recognition technology to
 ![1](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/f2509d99-ec39-4f75-b851-b6b9ab0ffd06)
 
 ## Dashboard 
-![2](https://github.com/printAsmamaw/Face-Attendance-System/243766707-b6f0a720-b4df-43ce-a378-72212741f22d)
+![2](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/7ec08a05-76d7-4178-abbe-217004f9ebeb)
+
+![2](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/a13af310-dabd-4f6c-ac0e-6b3bb175c483)
 
 ## Student Registration 
 ![3](https://github.com/printAsmamaw/Face-Attendance-System/243766707-b6f0a720-b4df-43ce-a378-72212741f22d.png)
