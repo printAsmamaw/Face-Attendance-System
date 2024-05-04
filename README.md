@@ -20,24 +20,20 @@ The Face Recognition Based Attendance System uses face recognition technology to
 ## Dashboard 
 ![2](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/7ec08a05-76d7-4178-abbe-217004f9ebeb)
 
-![2](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/a13af310-dabd-4f6c-ac0e-6b3bb175c483)
-
 ## Student Registration 
-![3](https://github.com/printAsmamaw/Face-Attendance-System/243766707-b6f0a720-b4df-43ce-a378-72212741f22d.png)
-
-![4](https://github.com/printAsmamaw/Face-Attendance-System/243766707-b6f0a720-b4df-43ce-a378-72212741f22d.png)
+![3](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/0c764105-d8b5-46ce-aa9b-da69e12fe7d6)
 
 ## Feature Extraction 
-![5](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/e979e0c8-9ddd-4ffb-b74a-3186c4107afa)
+![4](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/e979e0c8-9ddd-4ffb-b74a-3186c4107afa)
 
 ## Training Data
 
-![6](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/c14398da-33d5-49d7-902d-3aea654754e6)
+![5](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/c14398da-33d5-49d7-902d-3aea654754e6)
 
 ## Attendance Taking 
 
-![7](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/0c764105-d8b5-46ce-aa9b-da69e12fe7d6)
+![6](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/a13af310-dabd-4f6c-ac0e-6b3bb175c483)
 
 ## Attendance Report 
 
-![8](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/0c764105-d8b5-46ce-aa9b-da69e12fe7d6))
+![7](https://github.com/printAsmamaw/Face-Attendance-System/assets/122156542/0c764105-d8b5-46ce-aa9b-da69e12fe7d6)
